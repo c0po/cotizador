@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.nav--logo{
+    height: 2rem
+}
+.fondo{
+    background-color: cornflowerblue;
+    border-radius: 1rem;
+    height: 25rem
+}
+.main--contenido{
+    text-align: center;
+}
